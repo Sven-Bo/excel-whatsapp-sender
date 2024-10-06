@@ -1,3 +1,4 @@
+2.4 | 2024/10/06 - [Breaking Change] Sending media and documents is now limited to the PRO Version. [New Feature] Automatic retrieval of XPath settings for quick adaptation to WebWhatsApp changes.
 2.3 | 2024/07/24 - [Fix] Resolved "Error_7_NoSuchElementError" for attaching images/documents due to the WhatsApp UI change
 2.2 | 2024/01/21 - [Improvement] Minor enhancements and added buttons to explore the new PRO Version to send messages to unsaved contacts
 2.1 | 2023/10/28 - [Modification] Transitioned from XPath to arrow keys for image/document attachment functionality

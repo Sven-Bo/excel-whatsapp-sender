@@ -5,7 +5,7 @@ This guide will show you how to send WhatsApp messages directly from Excel using
 With the **free version**, you can only send messages to **saved contacts**. This tool is for **educational purposes only**. Please don’t use it for bulk messaging, as this violates WhatsApp’s policies:  
 👉 [WhatsApp Bulk Messaging Policy](https://faq.whatsapp.com/general/security-and-privacy/unauthorized-use-of-automated-or-bulk-messaging-on-whatsapp/?lang=en)
 
----
+
 
 ## Free vs PRO Version
 
@@ -23,7 +23,6 @@ The PRO version unlocks powerful features, including:
 Want to upgrade?  
 👉 [Get the PRO Version Here](https://pythonandvba.com/whatsapp-bot)
 
----
 
 ## Features of the Free Version
 - Send text messages to saved contacts only.  
@@ -32,19 +31,18 @@ Want to upgrade?
 For more details, check out the official documentation:  
 👉 [WhatsApp Blaster Documentation](https://pythonandvba.com/go/whatsappblaster-documentation)
 
----
+
 
 ## Resources
 - **Download VBA Selenium**: [SeleniumBasic v2.0.9.0](https://github.com/florentbr/SeleniumBasic/releases/tag/v2.0.9.0)  
 - **Download Chrome Driver**: [ChromeDriver](https://chromedriver.chromium.org/downloads)
 
----
 
 ## How to Minimize the Risk of Getting Banned  
 Follow this guide to reduce the risk of getting banned on WhatsApp:  
 👉 [Minimize Risk of Getting Banned](https://docs.pythonandvba.com/whatsappblaster/guides/how-to-minimize-the-risk-of-getting-banned-on-whatsapp)
 
----
+
 
 ## Video Tutorial
 

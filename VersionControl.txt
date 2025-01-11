@@ -1,11 +1,2 @@
+3.0 | 2025/01/11 - [Feature] Specify a fixed Chrome version to avoid updating the driver every time your browser updates. [Improvement] Dedicated "Settings" sheet for easier setup.
 2.5 | 2024/11/11 - [Improvement] Automatically dismisses popups (e.g., "end-to-end encrypted" notices) to ensure uninterrupted message sending.
-2.4 | 2024/10/06 - [Breaking Change] Sending media and documents is now limited to the PRO Version. [New Feature] Automatic retrieval of XPath settings for quick adaptation to WebWhatsApp changes.
-2.3 | 2024/07/24 - [Fix] Resolved "Error_7_NoSuchElementError" for attaching images/documents due to the WhatsApp UI change
-2.2 | 2024/01/21 - [Improvement] Minor enhancements and added buttons to explore the new PRO Version to send messages to unsaved contacts
-2.1 | 2023/10/28 - [Modification] Transitioned from XPath to arrow keys for image/document attachment functionality
-2.0 | 2023/08/03 - [Reversion] XPath settings localized to VBA, [Modification] Updated XPath to accommodate WhatsApp's latest version
-1.9 | 2023/03/11 - [Enhancement] The XPath settings are no longer hardcoded, and are now retrieved from an online settings file
-1.8 | 2023/03/10 - [Bug Fix] XPath for 'SearchInputField' has been changed
-1.7 | 2023/01/23 - [Update] Add FAQ link, Change donation form
-1.6 | 2022/05/22 - [Update] Change XPath for SearchInputBox after WebWhatsApp update
-1.5 | 2021/11/11 - [Update] Messages were not sent after XPath has been updated

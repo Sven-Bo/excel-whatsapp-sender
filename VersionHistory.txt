@@ -1,0 +1,4 @@
+3.2 | 2025/06/24 - [Update] The free version now has a daily sending limit to help support the project's future.
+3.1 | 2025/03/18 - [Improvement] Faster and more reliable message sending, especially when using line breaks. [Improvement] Preserve original formatting when pasting into the "BOT" sheet. [Bug Fix] Fixed "Bad filename error" when saving the WhatsApp Blaster on a network path or OneDrive.
+3.0 | 2025/01/11 - [Feature] Specify a fixed Chrome version to avoid updating the driver every time your browser updates. [Improvement] Dedicated "Settings" sheet for easier setup.
+2.5 | 2024/11/11 - [Improvement] Automatically dismisses popups (e.g., "end-to-end encrypted" notices) to ensure uninterrupted message sending.

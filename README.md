@@ -19,7 +19,7 @@ The PRO version unlocks powerful features, including:
 - Priority **support** and faster updates  
 
 **Upgrade to the PRO Version Now:**  
-[![Upgrade to PRO](https://img.shields.io/badge/Upgrade_to_PRO-Click_Here-brightgreen?style=for-the-badge)](https://pythonandvba.com/whatsapp-bot)
+[![Upgrade to PRO](https://img.shields.io/badge/Upgrade_to_PRO-Click_Here-brightgreen?style=for-the-badge)](https://pythonandvba.com/go/whatsapp-pro-purchase)
 
 ## Features of the Free Version
 - Send text messages to saved contacts only  

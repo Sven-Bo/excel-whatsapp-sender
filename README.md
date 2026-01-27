@@ -42,7 +42,6 @@ Learn how to create your own WhatsApp bot with VBA and Selenium:
 
 [![YouTube Video](https://img.youtube.com/vi/Wn9L1MD_y0Y/0.jpg)](https://youtu.be/Wn9L1MD_y0Y)
 
-
 ## More Solutions
 Explore my tools and templates for Excel, automation, and more.
 
@@ -52,14 +51,7 @@ Explore my tools and templates for Excel, automation, and more.
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in Touch](https://pythonandvba.com/contact)
-## ☕ Support 
-If you appreciate the project and wish to encourage its continued development, consider [supporting my work](https://pythonandvba.com/coffee-donation).
+## Support
+If you find this project helpful, consider buying me a coffee. 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
-## Feedback & Collaboration
-For feedback, suggestions, or potential collaboration opportunities, reach out at contact@pythonandvba.com.
-![Logo](https://www.pythonandvba.com/banner-img)
-
-
-![Logo](https://content.screencast.com/users/jubbel3/folders/Snagit/media/c42ea34b-4057-4754-96b0-e8e05c866afb/08.18.2021-19.56.png)
-

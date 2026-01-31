@@ -34,7 +34,7 @@ For more details, check out the official documentation:
 
 ## How to Minimize the Risk of Getting Banned  
 Follow this guide to reduce the risk of getting banned on WhatsApp:  
-👉 [Minimize Risk of Getting Banned](https://docs.pythonandvba.com/whatsappblaster/guides/how-to-minimize-the-risk-of-getting-banned-on-whatsapp)
+👉 [WhatsAppBlaster Usage Guidelines](https://pythonandvba.com/go/whatsappblaster-usage-guidelines)
 
 ## Video Tutorial
 

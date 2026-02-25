@@ -1,0 +1,148 @@
+END USER LICENSE AGREEMENT (EULA)
+Python & VBA — pythonandvba.com
+Last updated: February 18, 2026
+==================================================
+
+This End User License Agreement ("Agreement") is a legal agreement
+between you ("Licensee" or "you") and Sven Bosau, operating Python & VBA
+at pythonandvba.com ("Licensor", "we", "us"), governing your use of this
+software product ("Product").
+
+By installing, activating, or using the Product, you agree to be bound
+by this Agreement. If you do not agree, do not install or use the Product
+and contact us at contact@pythonandvba.com to arrange a refund if
+applicable.
+
+
+1. GRANT OF LICENSE
+--------------------
+Subject to your compliance with this Agreement and upon payment of the
+applicable fee (or, for free Products, upon download), we grant you a
+limited, non-exclusive, non-transferable, revocable license to install
+and use the Product on up to three (3) personal devices that you own or
+control.
+
+This license is for your personal or internal business use only. It does
+not permit use by multiple users within an organisation unless a separate
+multi-seat or commercial license has been purchased.
+
+
+2. LICENSE RESTRICTIONS
+------------------------
+You may not:
+
+  - Share, distribute, resell, sublicense, rent, lease, or otherwise
+    transfer the Product or your license key to any third party
+  - Allow any other individual to use the Product under your license
+  - Reverse engineer, decompile, disassemble, or attempt to derive the
+    source code of the Product
+  - Modify, adapt, translate, or create derivative works based on the
+    Product
+  - Remove, alter, or obscure any proprietary notices or branding within
+    the Product
+  - Use the Product to develop a competing product or service
+  - Use the Product to send spam or unsolicited communications
+  - Use the Product in violation of any applicable laws or the terms of
+    service of any third-party platform the Product integrates with
+
+
+3. LICENSE ACTIVATION
+----------------------
+Some Products use a license activation system that requires an internet
+connection to verify your license key against our server. Activations are
+limited to the number of devices covered by your license.
+
+If you need to transfer your license to a new device, please contact us
+at contact@pythonandvba.com and we will reset your activation.
+
+
+4. THIRD-PARTY SERVICES
+------------------------
+Certain Products interact with or require third-party services, including
+but not limited to: Google Maps, Google Gmail, Twilio, WhatsApp (Meta),
+and Microsoft Excel. Your use of these services through our Products is
+subject to the respective terms of service of those providers.
+
+You are solely responsible for:
+
+  - Obtaining any required accounts, API keys, or credentials
+  - Any costs or fees charged by third-party services
+  - Ensuring your use of third-party services complies with their terms
+
+We are not responsible for the availability, accuracy, pricing changes,
+or policy changes of any third-party service.
+
+
+5. ERROR REPORTING
+-------------------
+Some Products may automatically transmit anonymous error reports to our
+server to help us identify and resolve bugs. These reports do not
+intentionally include personally identifiable information. For details,
+see our Privacy Policy at: https://pythonandvba.com/privacy-policy/
+
+
+6. UPDATES
+-----------
+We may release updates or new versions of the Product at our sole
+discretion. Updates are not guaranteed. Any updates you install will be
+subject to this Agreement unless accompanied by a new agreement.
+
+
+7. OWNERSHIP
+-------------
+The Product is licensed, not sold. We retain all intellectual property
+rights in the Product. This Agreement does not grant you any rights to
+our trademarks, patents, trade secrets, or copyrights beyond the limited
+license described in Section 1.
+
+
+8. DISCLAIMER OF WARRANTIES
+-----------------------------
+THE PRODUCT IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+WE DO NOT WARRANT THAT THE PRODUCT WILL BE ERROR-FREE, UNINTERRUPTED, OR
+COMPATIBLE WITH ALL SOFTWARE AND HARDWARE CONFIGURATIONS. YOU USE THE
+PRODUCT AT YOUR OWN RISK.
+
+
+9. LIMITATION OF LIABILITY
+---------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+SVEN BOSAU / PYTHON & VBA BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED
+TO LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING FROM
+YOUR USE OF OR INABILITY TO USE THE PRODUCT. OUR TOTAL AGGREGATE
+LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE PRODUCT.
+
+
+10. TERMINATION
+----------------
+This Agreement is effective until terminated. Your rights will terminate
+automatically and without notice if you breach any of its terms. Upon
+termination, you must immediately cease all use of the Product and
+destroy all copies in your possession. We reserve the right to remotely
+deactivate licenses found to be in violation of this Agreement.
+
+
+11. GOVERNING LAW
+------------------
+Python & VBA is operated by an individual without a fixed legal
+establishment in any specific jurisdiction. This Agreement shall be
+interpreted in accordance with generally accepted principles of
+international commercial law. Any disputes shall be sought to be resolved
+through good-faith negotiation in the first instance.
+
+
+12. CONTACT
+------------
+For questions about this Agreement, license resets, or to report a
+licensing issue, please contact:
+
+  Sven Bosau
+  Python & VBA
+  Email:   contact@pythonandvba.com
+  Website: https://pythonandvba.com
+
+==================================================
+(c) Python & VBA — pythonandvba.com. All rights reserved.

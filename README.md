@@ -34,7 +34,7 @@ For more details, check out the official documentation:
 
 ## How to Minimize the Risk of Getting Banned  
 Follow this guide to reduce the risk of getting banned on WhatsApp:  
-👉 [Minimize Risk of Getting Banned](https://docs.pythonandvba.com/whatsappblaster/guides/how-to-minimize-the-risk-of-getting-banned-on-whatsapp)
+👉 [WhatsAppBlaster Usage Guidelines](https://pythonandvba.com/go/whatsappblaster-usage-guidelines)
 
 ## Video Tutorial
 
@@ -42,35 +42,16 @@ Learn how to create your own WhatsApp bot with VBA and Selenium:
 
 [![YouTube Video](https://img.youtube.com/vi/Wn9L1MD_y0Y/0.jpg)](https://youtu.be/Wn9L1MD_y0Y)
 
+## More Solutions
+Explore my tools and templates for Excel, automation, and more.
 
-## 🤓 Check Out My Excel Add-ins
-I've developed some handy Excel add-ins that you might find useful:
+**[View all solutions](https://pythonandvba.com/solutions)**
+## Connect with Me
+- **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
+- **Website:** [PythonAndVBA](https://pythonandvba.com)
+- **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
+- **Contact:** [Get in Touch](https://pythonandvba.com/contact)
+## Support
+If you find this project helpful, consider buying me a coffee. 
 
-- 📊 **[Dashboard Add-in](https://pythonandvba.com/grafly)**: Easily create interactive and visually appealing dashboards.
-- 🎨 **[Cartoon Charts Add-In](https://pythonandvba.com/cuteplots)**: Create engaging and fun cartoon-style charts.
-- 🤪 **[Emoji Add-in](https://pythonandvba.com/emojify)**: Add a touch of fun to your spreadsheets with emojis.
-- 🛠️ **[MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt)**: A versatile toolbelt for Excel, featuring:
-  - Creation of Pandas DataFrames and Jupyter Notebooks from Excel ranges
-  - ChatGPT integration for advanced data analysis
-  - And much more!
-
-
-
-## 🤝 Connect with Me
-- 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
-- 🌐 **Website:** [PythonAndVBA](https://pythonandvba.com)
-- 💬 **Discord:** [Join the Community](https://pythonandvba.com/discord)
-- 💼 **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
-- 📸 **Instagram:** [sven_bosau](https://www.instagram.com/sven_bosau/)
-
-## ☕ Support 
-If you appreciate the project and wish to encourage its continued development, consider [supporting my work](https://pythonandvba.com/coffee-donation).
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
-## Feedback & Collaboration
-For feedback, suggestions, or potential collaboration opportunities, reach out at contact@pythonandvba.com.
-![Logo](https://www.pythonandvba.com/banner-img)
-
-
-![Logo](https://content.screencast.com/users/jubbel3/folders/Snagit/media/c42ea34b-4057-4754-96b0-e8e05c866afb/08.18.2021-19.56.png)
-

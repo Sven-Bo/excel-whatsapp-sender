@@ -1,3 +1,4 @@
+3.5 | 2026/03/18 - [Improvement] Simplified contact search flow for better reliability when WhatsApp updates. [Improvement] Added "Processing..." status indicator. [Feature] Added Diagnostics Tool to help troubleshoot issues.
 3.4 | 2026/03/04 - [Improvement] Added search field verification to prevent messages from being sent to the wrong chat when XPaths become outdated. [Bug Fix] Fixed silent failure where typing into the search bar could target the wrong element.
 3.3 | 2025/03/03 - [Improvement] More robust XPath handling with automatic fallback to alternate selectors. [Improvement] Chrome startup errors now show detailed error info and offer automatic recovery by resetting the Chrome profile. [Improvement] Better error handling throughout, which prevents the bot from leaving Chrome running after a crash.
 3.2 | 2025/06/24 - [Update] The free version now has a daily sending limit to help support the project's future.
